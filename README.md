@@ -1,6 +1,6 @@
 #dad-jokes
 
-A blurry loading screen that becomes clear gradually and simultaniously with a displayed percentage counter.
+A random 'Dad Joke' generator.
 
 ## Table of contents
 
